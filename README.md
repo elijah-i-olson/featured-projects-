@@ -1,53 +1,42 @@
-# ☁️ Cloud Security Projects
+# 🎓 Featured Projects by Elijah Olson
 
-Welcome to my collection of cloud security projects that showcase my skills in:
+Welcome to my professional project portfolio, showcasing hands-on experience across cybersecurity, cloud security, GRC, and IT compliance.
 
-- Governance, Risk & Compliance (GRC)
-- Cloud architecture (Azure-focused)
-- Identity & Access Management (IAM)
-- Regulatory alignment (FedRAMP, NIST, PCI DSS)
-- Post-incident remediation and business continuity
-
-These projects reflect real-world scenarios designed to demonstrate both technical and strategic decision-making in securing cloud environments.
+These projects are more than academic—they simulate real-world scenarios, reflect compliance-focused problem solving, and align with industry frameworks such as NIST, FedRAMP, and PCI DSS.
 
 ---
 
-## 🔐 Featured Project: Rebuilding Trust in the Cloud
+## 🔐 Cloud Security & Compliance
 
-**Objective:**  
-Simulate the post-incident remediation of a cloud environment after the departure of a privileged insider — with a focus on regulatory alignment, IAM, and secure cloud design.
+Projects in this section emphasize secure cloud architecture, post-incident remediation, identity and access management, and regulatory alignment for organizations operating in high-risk or regulated sectors.
 
-**Key Highlights:**
-- ✅ Corrected RBAC misconfigurations in Azure
-- 🔒 Hardened IAM using Zero Trust and Least Privilege
-- 📁 Designed compliant backup & retention strategies
-- 📜 Aligned infrastructure with NIST 800-53 & FedRAMP
-
-📄 [View Full Project Documentation](../rebuilding-trust-cloud/README.md)
+📁 [`cloud-security/rebuilding-trust-cloud`](./cloud-security/rebuilding-trust-cloud)  
+*Rebuilding Trust in the Cloud* — A GRC-focused remediation project using Azure, IAM, and NIST-aligned risk response.
 
 ---
 
-## 🧰 Tools & Frameworks Used
+## 🧭 Governance, Risk & Compliance (Coming Soon)
 
-- Microsoft Azure (IaaS)
-- Azure Active Directory & Key Vault
-- Server-Side Encryption & TLS/SSL
-- NIST 800-53, FedRAMP, PCI DSS
-- Role-Based Access Control (RBAC)
-- Business Continuity & Incident Response Design
+Explore practical applications of GRC tools, frameworks, and assessments—including risk matrices, audit readiness plans, and policy mapping.
 
 ---
 
-## 📌 Why These Projects Matter
+## 🔍 IT Audit & Risk Management (Coming Soon)
 
-These cloud security exercises aren't just academic—they're practical blueprints for GRC professionals and cybersecurity practitioners tasked with protecting regulated, high-availability environments.
-
-If you're interested in how to bridge the gap between **compliance** and **cloud technology**, these projects are for you.
+Planned projects will demonstrate techniques in IT auditing, compliance gap assessments, and control validation for both cloud and on-prem environments.
 
 ---
 
-## 🔗 Let’s Connect
+## 🌐 About Me
 
-📬 [LinkedIn – Elijah Olson](https://www.linkedin.com/in/elijah-i-olson/)  
+I’m currently pursuing a Master of Science in Cybersecurity & Information Assurance, with a focus on GRC. My career goal is to transition into GRC and cybersecurity risk leadership roles, bridging technical expertise with regulatory strategy.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/elijah-i-olson/)  
 🌐 [Navigating GRC Website](https://sites.google.com/view/navigatinggrc)
+
+---
+
+## 📫 Connect or Collaborate
+
+Interested in cloud compliance, risk strategy, or cybersecurity education? Let’s connect and share knowledge.
 
