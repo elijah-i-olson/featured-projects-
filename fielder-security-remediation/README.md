@@ -41,7 +41,6 @@ This project simulates a comprehensive security remediation initiative at **Fiel
 ## 📄 Documentation
 
 📘 [Download Full PDF Report](./documentation/FMC-NIST-Remediation-Report.pdf)  
-🧩 [IAM & Risk Flow Diagrams](./assets/) *(coming soon)*
 
 ---
 
