@@ -12,10 +12,6 @@ The documentation provides deeper insight into the risk posture of FMC, control 
 | File | Description |
 |------|-------------|
 | **[FMC-NIST-Remediation-Report.pdf](./FMC-NIST-Remediation-Report.pdf)** | Full project report outlining security assessment findings, risk responses, and compliance-aligned recommendations |
-| `risk-assessment-summary.md` *(optional)* | Key risk findings and how each aligns to NIST RA-3, CA-5, and RA-7 |
-| `pci-dss-checklist.md` *(optional)* | Breakdown of required security practices for FMC’s point-of-sale system deployment |
-| `bcp-overview.md` *(optional)* | Business continuity planning notes tied to CA-5 and organizational resilience |
-| `control-mapping.xlsx` *(optional)* | Control-to-framework mapping (NIST/FedRAMP/PCI) for quick cross-referencing |
 
 ---
 
