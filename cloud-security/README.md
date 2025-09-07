@@ -1,52 +1,75 @@
-# ☁️ Cloud Security Projects
+# 🛡️ Rebuilding Trust in the Cloud
 
-Welcome to my collection of cloud security projects that showcase my skills in:
-
-- Governance, Risk & Compliance (GRC)
-- Cloud architecture (Azure-focused)
-- Identity & Access Management (IAM)
-- Regulatory alignment (FedRAMP, NIST, PCI DSS)
-- Post-incident remediation and business continuity
-
-These projects reflect real-world scenarios designed to demonstrate both technical and strategic decision-making in securing cloud environments.
+**Cloud Security Remediation & GRC Realignment Project**  
+Elijah Olson | M.Sc. Cybersecurity Candidate | [LinkedIn](https://www.linkedin.com/in/elijah-i-olson/) | [Navigating GRC Website](https://sites.google.com/view/navigatinggrc)
 
 ---
 
-## 🔐 Featured Project: Rebuilding Trust in the Cloud
+## 📘 Overview
 
-**Objective:**  
-Simulate the post-incident remediation of a cloud environment after the departure of a privileged insider — with a focus on regulatory alignment, IAM, and secure cloud design.
-
-**Key Highlights:**
-- ✅ Corrected RBAC misconfigurations in Azure
-- 🔒 Hardened IAM using Zero Trust and Least Privilege
-- 📁 Designed compliant backup & retention strategies
-- 📜 Aligned infrastructure with NIST 800-53 & FedRAMP
-
-📄 [View Full Project Documentation](../rebuilding-trust-cloud/README.md)
+This project simulates a post-incident security remediation for a federal contractor (SWBTL LLC) following a Microsoft Azure cloud migration. It focuses on restoring security, governance, and compliance posture by implementing best practices in identity and access management (IAM), infrastructure-as-a-service (IaaS) configuration, data protection, and compliance frameworks.
 
 ---
 
-## 🧰 Tools & Frameworks Used
+## 🎯 Objectives
 
-- Microsoft Azure (IaaS)
-- Azure Active Directory & Key Vault
-- Server-Side Encryption & TLS/SSL
-- NIST 800-53, FedRAMP, PCI DSS
-- Role-Based Access Control (RBAC)
-- Business Continuity & Incident Response Design
-
----
-
-## 📌 Why These Projects Matter
-
-These cloud security exercises aren't just academic—they're practical blueprints for GRC professionals and cybersecurity practitioners tasked with protecting regulated, high-availability environments.
-
-If you're interested in how to bridge the gap between **compliance** and **cloud technology**, these projects are for you.
+- Identify and remediate Azure access and resource misconfigurations
+- Realign cloud architecture with **NIST 800-53**, **FedRAMP**, and **PCI DSS**
+- Apply **Zero Trust** and **Least Privilege** principles via RBAC
+- Establish secure, compliant cloud backup and recovery strategies
+- Define shared responsibility and governance models using IaaS
 
 ---
 
-## 🔗 Let’s Connect
+## 🛠️ Technologies & Frameworks
 
-📬 [LinkedIn – Elijah Olson](https://www.linkedin.com/in/elijah-i-olson/)  
-🌐 [Navigating GRC Website](https://sites.google.com/view/navigatinggrc)
+- **Cloud Platform:** Microsoft Azure
+- **Security Controls:** Azure Key Vault, Azure Backup, RBAC, IAM
+- **Compliance Standards:**  
+  - NIST 800-53  
+  - FedRAMP  
+  - FISMA  
+  - PCI DSS
+- **Architecture Model:** Infrastructure as a Service (IaaS)
+- **Security Concepts:** Zero Trust, Role-Based Access Control (RBAC), Server-Side Encryption, TLS/SSL
+
+---
+
+## 🔍 Key Features
+
+- ✅ Corrected Azure RBAC and resource group misassignments  
+- 🔐 Implemented IAM policies and departmental access separation  
+- 📦 Deployed secure Azure Backup policies with retention compliance  
+- 🧰 Defined shared responsibility model for IaaS deployment  
+- 🧩 Developed business continuity and incident response planning aligned with compliance standards
+
+---
+
+## 📈 Outcomes
+
+- Reinforced cloud trust and reduced risk exposure  
+- Improved internal access controls and audit readiness  
+- Strengthened business continuity posture  
+- Aligned cloud architecture with regulatory expectations
+
+---
+
+## 📁 Resources
+
+- [Full Project Documentation (PDF)](link-to-pdf-if-hosted)
+- [Project Breakdown on Navigating GRC](https://sites.google.com/view/navigatinggrc)
+- [Featured on LinkedIn](https://www.linkedin.com/in/elijah-i-olson/)
+
+---
+
+## 🧠 Skills Demonstrated
+
+`Cloud Security Architecture` • `Governance, Risk & Compliance` • `Identity & Access Management` • `FedRAMP/NIST Compliance` • `Incident Response`
+
+---
+
+## 🔗 Connect
+
+📫 Want to collaborate or discuss GRC and cloud security?  
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/elijah-i-olson/) or explore more at my [Navigating GRC](https://sites.google.com/view/navigatinggrc) site.
+
